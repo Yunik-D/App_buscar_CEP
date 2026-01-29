@@ -1,7 +1,7 @@
 # 📮 Aplicativo de Busca de CEP — Flutter & ViaCEP
 
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-%20completo-green)
 ![API](https://img.shields.io/badge/API-ViaCEP-green)
 ![Repo Size](https://img.shields.io/github/repo-size/Yunik-D/App_buscar_CEP)
 ![Last Commit](https://img.shields.io/github/last-commit/Yunik-D/App_buscar_CEP)
